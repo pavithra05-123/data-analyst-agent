@@ -8,3 +8,6 @@ plotly
 streamlit
 python-dotenv
 tabulate
+openpyxl
+PyPDF2
+pillow
