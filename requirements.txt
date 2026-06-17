@@ -1,8 +1,10 @@
 langchain
 langchain-openai
+langchain-groq
 langchain-experimental
 openai
 pandas
 plotly
 streamlit
 python-dotenv
+tabulate
